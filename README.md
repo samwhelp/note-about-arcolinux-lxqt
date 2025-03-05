@@ -25,7 +25,8 @@
 
 | 微調腳本 |
 | --- |
-| [arcolinux-lxqt-adjustment](https://github.com/samwhelp/arcolinux-lxqt-adjustment/tree/main/prototype/main) |
+| [Arcolinux Lxqt Config](https://github.com/samwhelp/arcolinux-lxqt-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Tool Config](https://github.com/samwhelp/arcolinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
